@@ -16,3 +16,4 @@ results/*.csv
 *.a
 *.so
 *.exe
+*.out
