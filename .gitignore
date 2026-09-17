@@ -1,0 +1,18 @@
+# CMake build output
+build/
+cmake-build-*/
+
+# Generated benchmark and run output
+results/*.csv
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Compiled objects and binaries
+*.o
+*.a
+*.so
+*.exe
